@@ -18,3 +18,7 @@ We have deployed project.
 ## How To Contribute
 
 We have some contribution.
+
+### Copyright 
+
+2014 Git.Training.
