@@ -18,6 +18,7 @@ We have deployed project.
 ## How To Contribute
 
 We have some contribution.
+please fork this repository and issue pull request for review.
 
 ### Copyright 
 
