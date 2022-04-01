@@ -22,3 +22,4 @@
 	Python, Ruby
 	image processing
 	Data Science
+	Data Informatics
