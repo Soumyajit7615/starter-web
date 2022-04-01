@@ -3,6 +3,7 @@
 This is a simple website project for 
 showing how to use Git and Github together.Adding  a line for Rebashing.
 More changes from myfeature branch too. I am Soumyajit das. I am a good boy.
+Hi I am soumyajit.
 
 ## Introduction
 
